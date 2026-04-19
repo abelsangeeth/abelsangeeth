@@ -59,11 +59,9 @@
 
 ### 🏆 Most Used Languages
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-65.12%25-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-28.18%25-3572A5?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-5.48%25-e34c26?style=flat-square&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0.74%25-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0.48%25-f0db4f?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelsangeeth&layout=donut&theme=github_dark&hide_border=true&langs_count=8&count_private=true" />
+</p>
 
 ---
 
