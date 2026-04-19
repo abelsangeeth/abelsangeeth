@@ -65,21 +65,22 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/abelsangeeth">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abelsangeeth&theme=react-dark&bg_color=1a1030&color=ff4da6&line=ffe000&point=00e5ff&area=false&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-abelsangeeth-181717?style=for-the-badge&logo=github)](https://github.com/abelsangeeth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abel-sangeeth-8453a7283/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/abelkuriansangeeth)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:abelsangeeth@gmail.com)
-
----
-
-### 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-- 🗂 Created commits in private repositories
-- 🔀 Contributed to open source projects
-<!--END_SECTION:activity-->
 
 ---
 
